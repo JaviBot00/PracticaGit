@@ -1,2 +1,5 @@
 # Excluir los .log
 *.log
+
+# Excluir las variables de entorno
+.env
